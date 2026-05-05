@@ -160,6 +160,4 @@ R(s_t) = -Σ q_i^(t) - 2 · Σ 1[q_i^(t) = 5]
 
 
 
-Projet réalisé dans le cadre du cours IAD & SMA
-École d'Ingénieurs - Cycle Ingénieur
-Année académique 2025-2026
+
