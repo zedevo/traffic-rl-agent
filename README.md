@@ -156,18 +156,9 @@ R(s_t) = -Σ q_i^(t) - 2 · Σ 1[q_i^(t) = 5]
 | Épisodes entraînement | 1000 |
 | Pas par épisode | 200 |
 
-## Rapport technique
 
-Le rapport complet est disponible dans `rapport.tex`.
 
-### Compilation du rapport
 
-```bash
-pdflatex rapport.tex
-pdflatex rapport.tex
-```
-
-## Auteurs
 
 Projet réalisé dans le cadre du cours IAD & SMA
 École d'Ingénieurs - Cycle Ingénieur
