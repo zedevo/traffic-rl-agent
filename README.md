@@ -1,8 +1,8 @@
 # Gestion Intelligente du Trafic Urbain
 
-Projet IAD & SMA - Partie 1 : Agent Q-Learning pour le contrôle d'un carrefour isolé
+Projet - Partie 1 : Agent Q-Learning pour le contrôle d'un carrefour isolé
 
-Année académique 2025-2026
+
 
 ## Description
 
